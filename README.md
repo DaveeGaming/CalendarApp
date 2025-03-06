@@ -1,16 +1,5 @@
-# idklolisthisbetter
+Simple calendar app written in flutter!
 
-A new Flutter project.
+![483498754_2771473299705854_5950150492409145821_n](https://github.com/user-attachments/assets/c86c23f2-27b9-4a81-a046-6b0a1e4f5e74) ![482167434_2640073553048755_6434446204652584590_n](https://github.com/user-attachments/assets/a0bd283b-6237-4424-8c2e-37306798645f)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
